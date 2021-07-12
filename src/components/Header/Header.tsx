@@ -25,7 +25,7 @@ const Header = () => {
         />
         <Heading sx={{ ml: [1, 2], color: 'white' }} as="h4">
           Rise of Shinobi Marketplace{' '}
-          <Text sx={{ display: ['none', 'block'] }}>+ Shinobi Marketplace Network</Text>
+          <Text sx={{ display: ['none', 'block'] }}>+ ROS on Binance Smart Chain Network</Text>
         </Heading>
         <UserMenu />
       </Flex>
