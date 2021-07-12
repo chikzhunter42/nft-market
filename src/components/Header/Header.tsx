@@ -24,8 +24,8 @@ const Header = () => {
           src="/static/logo.png"
         />
         <Heading sx={{ ml: [1, 2], color: 'white' }} as="h4">
-          Rise of Shinobi Marketplace{' '}
-          <Text sx={{ display: ['none', 'block'] }}>+ ROS on Binance Smart Chain Network</Text>
+          ERC721 Marketplace{' '}
+          <Text sx={{ display: ['none', 'block'] }}>+ OpenSea.io on Rinkeby Network</Text>
         </Heading>
         <UserMenu />
       </Flex>
